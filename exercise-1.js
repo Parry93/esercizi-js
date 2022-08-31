@@ -11,4 +11,5 @@ person2.firstName = "Simon";
 
 console.log(person1);
 console.log(person2);
-//
+// usando questo metodo creiamo un nuovo object che viene allocato nella stessa memoria del primo.
+// viene preso/copiato il primo object e modificato.
